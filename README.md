@@ -12,7 +12,7 @@
  ![violin](https://github.com/Xavier4t/luthierproject.com/blob/in_construction/assets/images/violin5_amati.png?raw=True)
 
  ---
- ## The instrument bow. Gradation and Camber.
+ ## The Bow. Gradation and Camber.
  Similar to the instrument application, the user will be able to select the gradation law for the bow and based on the wood stick mechanical properties a reference bow camber will be produced.
  
 Example, Violin Bow gradation:
